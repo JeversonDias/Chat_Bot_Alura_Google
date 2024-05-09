@@ -1,6 +1,6 @@
 import tkinter as tk
 import google.generativeai as genai
-#Escrito por @JeversonDias
+#Escrito por @JeversonDias + Luri
 GOOGLE_API_KEY = "COLE SUA CHAVE API AQUI"
 genai.configure(api_key=GOOGLE_API_KEY)
 
